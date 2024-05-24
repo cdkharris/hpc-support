@@ -1,7 +1,7 @@
 name: "Support Topic Request"
 description: "Request a new article on a support topic"
 labels: "support topic"
-title: "[Support Topic Request]"
+title: "[Support Topic Request] <title>"
 body:
 - type: textarea
   id: description
