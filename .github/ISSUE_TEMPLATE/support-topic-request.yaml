@@ -22,7 +22,7 @@ body:
   validations:
     required: false
 - type: textarea
-  id: related_to
+  id: existing_resources
   attributes:
     label: "Existing resources"
     description: |
